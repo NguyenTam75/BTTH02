@@ -629,8 +629,103 @@ b{
 }
 
 #GioiThieu{
-    margin-left: 400px;
+    margin-left: 200px;
 }
 
+.elementor-section{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    justify-content: center;
+    position: relative;
+}
+.elementor-section .icon-left{
+    position: absolute;
+    font-size: 40px;
+    top: calc(181px - 20px);
+    left: 40px;
+    /* margin-right: 500px; */
+}
+.elementor-section .icon-right{
+    position: absolute;
+    font-size: 40px;
+    top: calc(181px - 20px);
+    right:  40px;
+    
+}
+.elementor-section h2{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.elementor-wrap{
+    justify-content: center;
+    
+    display: flex;
+}
+.elementor-wrap img{
+    display: inline;
+}
+.images1 img{
+    margin-top: 10px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.images2 img{
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.images3 img{
+    margin-right: 50px;
+    margin-left: 50px;
+    height: 130px;
+    width: 195px;
+}
+.images4 img{
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    height: 40px;
+    width: 242px;
+}
+.elementor-section1 {
+    padding: 100px;
+    background-color: #2f319e;
+    background-image: linear-gradient(0, rgba(0,255,255, 0.5), rgba(255,0,255, 0.5));
+}
+.elementor-widget
+{
+    
+    display: flex;
+}
+.section a{
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 40px;
+}  
+.section1 h2{
+    font-size: 20px;
+    color: white;
+}
+.section-ct h2{
+    font-size: 20px;
+    color: white;
+    margin-left: 40px;
+}
+.section1 .wrap-widget1 li{
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 40px;
+    list-style-type: none;
+}
+.section1{
+    content: 10px;
+    margin-right: 10px;
+}
+.section1{
+    padding: 40px;
+}
 
 
